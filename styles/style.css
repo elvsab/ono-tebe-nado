@@ -337,11 +337,11 @@ h3 {
 
 .about__text {
     font-size: 20px;
-    line-height: 24px;   
+    line-height: 24px;
     align-self: end;
 }
 
-.about__text p:first-child {         
+.about__text p:first-child {
     letter-spacing: 0.01em; 
 }
 
