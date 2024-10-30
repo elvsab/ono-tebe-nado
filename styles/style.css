@@ -130,7 +130,7 @@ h3 {
     margin-top: 13px;
 }
 
-.aligned-text_right{
+.aligned-text_right {
     align-self: flex-end;
     margin-top: 7px;
 }
@@ -195,7 +195,7 @@ h3 {
     padding-left: 40px;
 }
 
-.lots_card-list{
+.lots_card-list {
     display: flex;
     flex-direction: row;
     list-style: none;
@@ -341,8 +341,7 @@ h3 {
     align-self: end;
 }
 
-.about__text p:first-child {
-              
+.about__text p:first-child {         
     letter-spacing: 0.01em; 
 }
 
@@ -373,7 +372,6 @@ h3 {
 .footer {
     width: 1000;
     height: 98;
-    /*margin-top: 180px;*/
     padding: 0 50px 88px 50px;
     font-size: 18px;
     display: grid;
