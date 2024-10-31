@@ -113,6 +113,7 @@ h3 {
     line-height: 100px;
     letter-spacing: 0.3em;
     z-index: 2;
+    gap: 10px;
 }
 
 .aligned-text {
@@ -130,12 +131,10 @@ h3 {
 
 .aligned-text_center {
     align-self: center;
-    margin-top: 13px;
 }
 
 .aligned-text_right {
     align-self: flex-end;
-    margin-top: 7px;
 }
 
 .no-letter-spacing {
